@@ -1,5 +1,5 @@
-"use strict";
-let array = [2, 2.3, 'mame', 'fem', 5, true, 10, 1.002, 10000, 'end'];
+let array:any= [2,2.3,'mame','fem',5,true,10,1.002,10000,'end'];
+
 console.log(array[0]);
 console.log(array[1]);
 console.log(array[2]);
