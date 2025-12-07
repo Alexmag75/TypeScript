@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TypeScript.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw1/script_task1.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw2/script_task2.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw3/script_task3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson1/hw3/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw10/script_task10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw10/task10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw11/script_task11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw11/task11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw12/script_task12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw12/task12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw3/script_task3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw3/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw4/script_task4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw4/task4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw5/script_task5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw5/task5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw6/script_task6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw6/task6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw7/script_task7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw7/task7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw8/script_task8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw8/task8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw9/script_task9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson2/hw9/task9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw3/script_task3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw3/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw4/script_task4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw4/task4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw5/script_task5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw5/task5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw6/script_task6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw6/task6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw7/script_task7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw7/task7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw8/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw8/script_task8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw8/task8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson3/hw8/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw10/script_task10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw10/task10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw11/script_task11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw11/task11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw12/script_task12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw12/task12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw13/script_task13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw13/task13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw3/script_task3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw3/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw4/script_task4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw4/task4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw5/script_task5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw5/task5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw6/script_task6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw6/task6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw7/script_task7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw7/task7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw8/script_task8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw8/task8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw9/script_task9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson4/hw9/task9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw10/script_task10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw10/task10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw11/script_task11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw11/task11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw12/script_task12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw12/task12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw13/script_task13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw13/task13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw3/script_task3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw3/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw4/script_task4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw4/task4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw5/script_task5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw5/task5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw6/script_task6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw6/task6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw7/script_task7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw7/task7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw8/script_task8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw8/task8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw9/script_task9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson5/hw9/task9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw10/script_task10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw10/task10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw11/.idea/hw11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw11/script_task11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw11/task11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw3/script_task3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw3/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw4/script_task4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw4/task4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw5/script_task5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw5/task5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw6/script_task6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw6/task6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw7/script_task7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw7/task7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw8/script_task8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw8/task8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw9/script_task9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson6/hw9/task9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw3/script_task3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw3/task3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw4/script_task4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw4/task4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw5/script_task5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw5/task5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw6/script_task6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw6/task6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw7/script_task7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw7/task7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw8/script_task8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw8/task8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw9/script_task9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson7/hw9/task9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson8/hw1/script_task1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson8/hw1/task1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson8/hw2/script_task2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HW/Lesson8/hw2/task2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="36WItPRWScatwPgkiYw0SCFqzGh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="" />
+      <created>1765116114764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765116114764</updated>
+      <workItem from="1765116115863" duration="364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
