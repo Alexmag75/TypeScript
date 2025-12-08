@@ -1,4 +1,10 @@
-let users=[
+type UserType9 = {
+    id: number;
+    name: string;
+    age: number;
+}
+
+let usersTask9:UserType9[]=[
     {
         id: 1,
         name: 'name_1',
@@ -10,13 +16,13 @@ let users=[
         age: 30
     },
     {
-       id: 3,
-       name: 'name_3',
-       age: 25
+        id: 3,
+        name: 'name_3',
+        age: 25
     }
 ]
 
-function user_print(user){
+function user_print(users:UserType9[]){
 
     for(let user of users){
 
@@ -27,4 +33,4 @@ function user_print(user){
         document.write(`</div>`);
     }
 }
-user_print(users);
+user_print(usersTask9);
