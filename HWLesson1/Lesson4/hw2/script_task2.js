@@ -1,7 +1,7 @@
-let r=2;
-
-function area(r){
-    return Math.PI*r*r;
+"use strict";
+let r = 2;
+function area(r) {
+    return Math.PI * r * r;
 }
-let s=area(r);
-console.log(s);
+let S = area(r);
+console.log(S);
