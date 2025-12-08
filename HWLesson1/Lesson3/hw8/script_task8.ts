@@ -1,5 +1,5 @@
-"use strict";
-for (const user of usersList) {
+for(const user of usersList)
+{
     document.write(`
 
                        <div class="users-box">
@@ -13,5 +13,5 @@ for (const user of usersList) {
                                   <p>Zip code: ${user.address.zipcode}</p>
                               </div>
                        </div>
-                      `);
+                      `)
 }
