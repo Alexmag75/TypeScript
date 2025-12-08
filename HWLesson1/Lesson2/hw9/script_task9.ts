@@ -1,4 +1,4 @@
-let day_number=+prompt('enter dey 1-7');
+let day_number:number=Number(prompt('enter dey 1-7'));
 switch (day_number) {
     case 1: console.log('Monday')
         break;

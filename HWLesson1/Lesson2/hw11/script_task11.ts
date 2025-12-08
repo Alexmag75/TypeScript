@@ -1,4 +1,4 @@
-let number=prompt('Enter number ');
+let number:string | null=prompt('Enter number');
 if(!number){
     number='default'
 }
