@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="Commit start">
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson4/hw1/script_task1.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson4/hw1/script_task1.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson4/hw4/script_task4.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson4/hw4/script_task4.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +21,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -70,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765116114764</updated>
-      <workItem from="1765116115863" duration="18338000" />
+      <workItem from="1765116115863" duration="19143000" />
     </task>
     <task id="LOCAL-00001" summary="Commit start">
       <option name="closed" value="true" />
@@ -232,7 +225,39 @@
       <option name="project" value="LOCAL" />
       <updated>1765220459818</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765224342792</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765224342792</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765224601443</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765224601443</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765224610217</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765224610217</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765224898385</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765224898385</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +307,12 @@
         <option value="$PROJECT_DIR$/HWLesson1/Lesson3/hw8/script_task8.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw1/script_task1.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw1/script_task1.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw2/script_task2.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw2/script_task2.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw3/script_task3.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw3/script_task3.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw4/script_task4.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw4/script_task4.js" />
       </list>
     </option>
   </component>
