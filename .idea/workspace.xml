@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="Commit start">
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson2/hw5/script_task5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson2/hw6/script_task6.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson2/hw5/script_task5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson2/hw6/script_task6.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765116114764</updated>
-      <workItem from="1765116115863" duration="6744000" />
+      <workItem from="1765116115863" duration="7753000" />
     </task>
     <task id="LOCAL-00001" summary="Commit start">
       <option name="closed" value="true" />
@@ -122,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765176338213</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765184158831</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765184158831</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +146,8 @@
         <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw4/script_task4.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw4/script_task4.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw5/script_task5.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw5/script_task5.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw6/script_task6.js" />
       </list>
     </option>
   </component>
