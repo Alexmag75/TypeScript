@@ -1,5 +1,4 @@
 let list_array:any=[5,'text',true];
-
 function list_print8(list:any){
 
     document.write(`<ul>`);
