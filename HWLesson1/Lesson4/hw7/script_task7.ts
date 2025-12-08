@@ -1,7 +1,6 @@
 let list7:string='Список';
 let n:number=10;
 
-
 function list_print7(list:string,n:number){
 
     document.write(`<ul>`);
