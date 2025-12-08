@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="Commit start">
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson2/hw10/script_task10.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson2/hw11/script_task11.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson2/hw12/script_task12.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson2/hw8/script_task8.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson2/hw9/script_task9.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson3/hw1/script_task1.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson2/hw10/script_task10.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson2/hw11/script_task11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson2/hw12/script_task12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson2/hw8/script_task8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson2/hw9/script_task9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson3/hw1/script_task1.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765116114764</updated>
-      <workItem from="1765116115863" duration="10888000" />
+      <workItem from="1765116115863" duration="12112000" />
     </task>
     <task id="LOCAL-00001" summary="Commit start">
       <option name="closed" value="true" />
@@ -168,7 +160,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765185612390</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765197116751</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765197116751</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765197129450</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765197129450</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +206,9 @@
         <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw11/script_task11.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw11/script_task11.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw12/script_task12.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson2/hw12/script_task12.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson3/hw1/script_task1.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson3/hw1/script_task1.js" />
       </list>
     </option>
   </component>
