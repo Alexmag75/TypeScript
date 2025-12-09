@@ -1,10 +1,11 @@
-"use strict";
-let listTk6 = 'Список';
-let listPrint = (list) => {
+let listTk6:string='Список';
+
+
+let listPrint=(list:string)=>{
     document.write(`<ul>
                         <li>${list}</li>
                         <li>${list}</li>
                         <li>${list}</li>                     
                     </ul>`);
-};
+}
 listPrint(listTk6);

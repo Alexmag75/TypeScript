@@ -1,5 +1,6 @@
-let a=2;
-let b = 5;
-let area=(a,b) => a*b;
-let s=area(a,b);
-console.log(s);
+"use strict";
+let number1 = 2;
+let number2 = 5;
+let area = (a, b) => a * b;
+let multiply = area(number1, number2);
+console.log(multiply);
