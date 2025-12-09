@@ -1,5 +1,11 @@
-"use strict";
-let coursesArray = [
+type CoursesArrayType={
+    title:string;
+    monthDuration:number;
+    hourDuration:number;
+    modules: string[]
+}
+
+let coursesArray:CoursesArrayType[] = [
     {
         title: 'JavaScript Complex',
         monthDuration: 5,
@@ -68,11 +74,12 @@ let coursesArray = [
         modules: ['html', 'css', 'js', 'mysql', 'mongodb', 'react', 'angular', 'aws', 'docker', 'git', 'sass']
     }
 ];
-let coursModuleSass = coursesArray.filter(cours => {
+
+let coursModuleSass=coursesArray.filter(cours=>{
     return cours.modules.includes('sass');
 });
 console.log(coursModuleSass);
-coursModuleSass = coursesArray.filter(cours => {
+coursModuleSass=coursesArray.filter(cours=>{
     return cours.modules.includes('docker');
 });
 console.log(coursModuleSass);
