@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="Commit start">
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson4/hw12/script_task12.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson4/hw13/script_task13.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson4/hw12/script_task12.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson4/hw13/script_task13.js" beforeDir="false" />
-    </list>
+    <list default="true" id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="Commit start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +18,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -347,6 +343,17 @@
         <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw13/script_task13.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson4/hw13/script_task13.js" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
