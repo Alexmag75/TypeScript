@@ -7,6 +7,9 @@ class User {
         public phone: string
     ) {}
 }
+
+
+
 let users7_1: User[] = [
     new User(1,'alex','map','assfd@gmail.com','0632568975'),
     new User(2,'peta','chel','asfhgd@gmail.com','0632568945'),
