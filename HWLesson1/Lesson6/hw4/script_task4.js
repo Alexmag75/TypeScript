@@ -1,3 +1,4 @@
-let str=' dirty string   ';
-str=str.trim();
+"use strict";
+let str = ' dirty string   ';
+str = str.trim();
 console.log(str);
