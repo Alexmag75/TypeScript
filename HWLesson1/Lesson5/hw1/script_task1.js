@@ -1,6 +1,5 @@
-"use strict";
-let number1 = 2;
-let number2 = 5;
-let area = (a, b) => a * b;
-let summa = area(number1, number2);
-console.log(summa);
+let a=2;
+let b = 5;
+let area=(a,b) => a*b;
+let s=area(a,b);
+console.log(s);
