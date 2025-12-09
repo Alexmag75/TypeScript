@@ -1,5 +1,11 @@
-"use strict";
-let usersT9 = [
+type UserTypeT9 = {
+    id: number;
+    name: string;
+    age: number;
+}
+
+
+let usersT9: UserTypeT9[] = [
     {
         id: 1,
         name: 'name_1',
@@ -15,14 +21,14 @@ let usersT9 = [
         name: 'name_3',
         age: 25
     }
-];
-let userPrint = (user) => {
-    for (let user of usersT9) {
+]
+let userPrint=(user:UserTypeT9[])=>{
+    for(let user of usersT9){
         document.write(`<div>`);
         document.write(`<p>${user.id}</p>`);
         document.write(`<p>${user.name}</p>`);
         document.write(`<p>${user.age}</p>`);
         document.write(`</div>`);
     }
-};
+}
 userPrint(usersT9);
