@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e374bd2e-8439-44bb-9cdb-c05d63ec66e3" name="Changes" comment="Commit start">
-      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson5/hw9/script_task9.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson5/hw9/script_task9.js" beforeDir="false" afterPath="$PROJECT_DIR$/HWLesson1/Lesson5/hw9/script_task9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWLesson1/Lesson5/hw13/script_task13.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HWLesson1/Lesson5/hw13/script_task13.js" beforeDir="false" afterPath="$PROJECT_DIR$/HWLesson1/Lesson5/hw13/script_task13.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -331,7 +332,39 @@
       <option name="project" value="LOCAL" />
       <updated>1765293723120</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765293996371</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1765293996371</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765294239504</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1765294239504</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765294359343</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1765294359343</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Commit start">
+      <option name="closed" value="true" />
+      <created>1765294654996</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1765294654996</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +414,10 @@
         <option value="$PROJECT_DIR$/HWLesson1/Lesson5/hw7/script_task7.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson5/hw8/script_task8.js" />
         <option value="$PROJECT_DIR$/HWLesson1/Lesson5/hw9/script_task9.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson5/hw10/script_task10.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson5/hw11/script_task11.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson5/hw12/script_task12.js" />
+        <option value="$PROJECT_DIR$/HWLesson1/Lesson5/hw13/script_task13.js" />
       </list>
     </option>
   </component>
