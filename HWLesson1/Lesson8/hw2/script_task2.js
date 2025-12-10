@@ -1,34 +1,28 @@
-let user1={
-    id:1,
-    name:'vasia',
-    email:'vasia@gmail.com',
-    message1: function (){
-        console.log('Привет')
+"use strict";
+let usr = {
+    id: 1, name: 'Vasia', greeting() {
+        console.log('Привет');
     },
-    message2: function (){
-        console.log('Бывай')
+    massage() {
+        console.log('Пока');
     }
-}
-
-function copyUser(user){
-    if(user){
-        let masFunction=[];
-        for(const key in user){
-            if(typeof user[key]==='function'){
-                const functionCopy=user[key].bind({});
-                masFunction.push({functionCopy,key});
+};
+function cloner(user) {
+    if (user) {
+        const functions = [];
+        for (const key in user) {
+            if (typeof user[key] === 'function') {
+                const functionClone = user[key].bind({});
+                functions.push({ functionClone, key });
             }
         }
-        const userCopy=JSON.parse(JSON.stringify(user));
-        for (const func of masFunction){
-            userCopy[func.key] = func.functionCopy;
+        const cloneUser = JSON.parse(JSON.stringify(user));
+        for (const func of functions) {
+            cloneUser[func.key] = func.functionClone;
         }
-        return userCopy;
+        return cloneUser;
     }
+    throw new Error('Error!');
 }
-
-user2=copyUser(user1);
-
-console.log(user1);
-console.log(user2);
-
+const clone = cloner(usr);
+clone.massage();

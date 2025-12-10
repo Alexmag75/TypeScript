@@ -1,9 +1,4 @@
 "use strict";
-// let Cinderellas=function (name,age,footSize) {
-//     this.name=name;
-//     this.age=age;
-//     this.footSize=footSize;
-// }
 class Cinderellas {
     constructor(name, age, footSize) {
         this.name = name;
