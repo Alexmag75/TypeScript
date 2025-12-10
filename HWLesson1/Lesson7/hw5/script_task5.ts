@@ -6,8 +6,7 @@ class Client7_5{
        public email :string,
        public phone:string,
        public order:string[],
-    ) {
-    }
+    ) {}
 
 }
 let Clients7_5:Client7_5[] = [

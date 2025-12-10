@@ -1,39 +1,44 @@
-let Cars=function (model,manufacturer,yearManufacture,maxSpeed,valueEngine){
-    this.model=model;
-    this.manufacturer=manufacturer;
-    this.yearManufacture=yearManufacture;
-    this.maxSpeed=maxSpeed;
-    this.valueEngine=valueEngine;
-
-    this.drive=function (){
-    console.log( `їдемо зі швидкістю ${maxSpeed} на годину`)
+"use strict";
+//@ts-ignore
+class Cars {
+    constructor(model, manufacturer, yearManufacture, maxSpeed, valueEngine, Driver) {
+        this.model = model;
+        this.manufacturer = manufacturer;
+        this.yearManufacture = yearManufacture;
+        this.maxSpeed = maxSpeed;
+        this.valueEngine = valueEngine;
+        this.Driver = Driver;
     }
-    this.info=function (){
-        console.log( `Модель автомобіля     -  ${model}
-            Виробник              -  ${manufacturer}
-            Рік випуску           -  ${yearManufacture} рік
-            Максимальна швидкість - ${maxSpeed} км/год
-            Об’єм двигуна         - ${valueEngine} л`)
+    drive() {
+        console.log(`їдемо зі швидкістю ${this.maxSpeed} на годину`);
     }
-    this.increaseMaxSpeed =function (newSpeed){
-        this.maxSpeed=this.maxSpeed+newSpeed;
+    ;
+    info() {
+        console.log(`Модель автомобіля     -  ${this.model}
+            Виробник              -  ${this.manufacturer}
+            Рік випуску           -  ${this.yearManufacture} рік
+            Максимальна швидкість - ${this.maxSpeed} км/год
+            Об’єм двигуна         - ${this.valueEngine} л`);
     }
-    this.changeYear =function (newValue){
-        this.yearManufacture=newValue;
+    ;
+    increaseMaxSpeed(newSpeed) {
+        this.maxSpeed = this.maxSpeed + newSpeed;
     }
-    this.addDriver =function (...driver){
-        this.driver=driver;
+    ;
+    changeYear(newValue) {
+        this.yearManufacture = newValue;
+    }
+    ;
+    addDriver(driver) {
+        this.Driver = driver;
     }
 }
-let car=new Cars('bmv','BMW Group',2010,250,3)
-
+let car = new Cars('bmv', 'BMW Group', 2010, 250, 3);
 console.log(car);
 car.drive();
 car.info();
 car.increaseMaxSpeed(20);
 console.log(car);
-car.changeYear(2020)
-car.addDriver('vasia',1978,'B')
+car.changeYear(2020);
+car.addDriver({ name: 'vasia', age: 1978, categoria: 'B' });
 console.log(car);
-
-
