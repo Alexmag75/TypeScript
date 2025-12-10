@@ -33,12 +33,12 @@ class Cars {
         this.Driver = driver;
     }
 }
-let car = new Cars('bmv', 'BMW Group', 2010, 250, 3);
-console.log(car);
-car.drive();
-car.info();
-car.increaseMaxSpeed(20);
-console.log(car);
-car.changeYear(2020);
-car.addDriver({ name: 'vasia', age: 1978, categoria: 'B' });
-console.log(car);
+let car7_6 = new Cars('bmv', 'BMW Group', 2010, 250, 3);
+console.log(car7_6);
+car7_6.drive();
+car7_6.info();
+car7_6.increaseMaxSpeed(20);
+console.log(car7_6);
+car7_6.changeYear(2020);
+car7_6.addDriver({ name: 'vasia', age: 1978, categoria: 'B' });
+console.log(car7_6);
